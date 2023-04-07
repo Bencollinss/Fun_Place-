@@ -4,9 +4,9 @@
   * print smiling face emoji
   */
 
-int main(void)
+  int main()
 {
-	int n = 9, x, y, k;
+	int n=9, x, y, k;
 
 	for (x = 1; x <= n; x++)
 	{
@@ -19,7 +19,7 @@ int main(void)
 		}
 		for (y = n; y <= 1; y--)
 		{
-			for (y <= x)
+			if (y <= x)
 				printf("\U0001F600");
 			else
 				printf(" ");
