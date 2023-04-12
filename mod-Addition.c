@@ -34,4 +34,9 @@ int main(void)
 /**
   * Calculates the sum of the numbers
   */
+	for (k = 0; k < 15; k++)
+	{
+		
+	}
 }
+
