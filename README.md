@@ -22,4 +22,9 @@ A function that adds int a and b then gives the difference betweet the sum of a 
 **SOLUTION:** [Addition.c](https://github.com/Bencollinss/Fun_Place-/blob/master/Addition.c)
 
 
-## More advanced addition `Coming Soon!!!`
+## More advanced addition 
+
+A function that adds two numbers. The user has to input the numbers of his choice and then its added.
+**SOLUTION:**[mod-Addition.c](https://github.com/Bencollinss/Fun_Place-/blob/master/mod-Addition.c)
+
+### `That was fun, wasn't it?`
